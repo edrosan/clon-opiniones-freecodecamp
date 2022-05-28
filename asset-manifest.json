@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clon-opiniones-freecodecamp/static/css/main.20849d8e.css",
+    "main.js": "/clon-opiniones-freecodecamp/static/js/main.d66b2a2d.js",
+    "static/media/testimonio-emma.png": "/clon-opiniones-freecodecamp/static/media/testimonio-emma.add10415a5668325d2f2.png",
+    "static/media/testimonio-sarah.png": "/clon-opiniones-freecodecamp/static/media/testimonio-sarah.2c504d1ebaf1961e4a40.png",
+    "static/media/testimonio-shawn.png": "/clon-opiniones-freecodecamp/static/media/testimonio-shawn.0d373888087fb18fc145.png",
+    "index.html": "/clon-opiniones-freecodecamp/index.html",
+    "main.20849d8e.css.map": "/clon-opiniones-freecodecamp/static/css/main.20849d8e.css.map",
+    "main.d66b2a2d.js.map": "/clon-opiniones-freecodecamp/static/js/main.d66b2a2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20849d8e.css",
+    "static/js/main.d66b2a2d.js"
+  ]
+}
